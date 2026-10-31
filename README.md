@@ -1,5 +1,7 @@
 # LLM-Werewolf 🐺🤖 - 全功能版
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > **开源仓库链接**：<https://github.com/89799969/LLM-Werewolf>
 
 一个基于 **LangChain 框架**、Python 和大型语言模型（LLM）的文本狼人杀模拟器框架。该项目允许你配置不同数量的AI玩家，赋予它们不同的角色（狼人、预言家、女巫、猎人、平民），并通过 LangChain 与在线/离线大模型 API 交互来驱动它们的行为和决策，体验一场由AI主导的狼人杀游戏。
@@ -185,3 +187,7 @@ python werewolf_game_main.py
 
 *   `detailed_werewolf_report_[timestamp].txt`: 包含完整的游戏事件日志和每个玩家的详细消息历史。
 *   `summary_werewolf_report_[timestamp].txt`: 包含游戏概览、最终玩家信息和按天组织的关键事件回顾。
+
+## 📜 开源协议
+
+本项目基于 [MIT License](LICENSE) 协议开源。欢迎 Fork、学习和改进。
