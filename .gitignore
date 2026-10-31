@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.conda/
+venv/
+.venv/
+
+# 运行时生成的报告
+game_reports/
+
+# 日志
+*.log
+
+# IDE
+.idea/
+.vscode/
